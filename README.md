@@ -1,1 +1,1 @@
-# UnitedWeAreInGifs
+# GIFtastic

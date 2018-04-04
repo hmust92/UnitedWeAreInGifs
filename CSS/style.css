@@ -1,0 +1,71 @@
+
+
+.jumbotron {
+
+	background-image:url(http://www.golfian.com/wp-content/uploads/2016/07/Cool-Black-Background-Wallpaper-600x407.jpg);
+	font-family: 'Chicle';
+
+
+}
+
+.text-success {
+
+	color:red;
+	text-align: center;
+}
+
+.text-success h1 {
+
+	font-size:115px;
+}
+
+.addGif {
+
+	padding-left:4px;
+}
+
+.inputButton {
+
+	margin-top:10px;
+}
+
+.buttonCreatorClass {
+
+	margin:5px 5px;
+	color:white;
+	padding:10px;
+	background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/55/36/36579c6961eed41.jpg");
+	font-weight:bolder;
+	border:none;
+}
+
+/*.buttonCreatorClass:hover {
+
+	font-size: 20px;
+}*/
+
+/*.ratingsManClass {
+
+	float:left;
+	margin:5px 5px;
+	
+}*/
+
+.gifsHomiee {
+
+	width:200px;
+	height:200px;
+	
+}
+
+.theDivOfContainer {
+
+	float:left;
+	padding:20px;
+	
+}
+
+body {
+
+	background-image: url(https://i.pinimg.com/originals/46/1d/25/461d254f8563f8945ce3a385f289df17.jpg)
+}
